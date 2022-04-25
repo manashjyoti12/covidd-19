@@ -16,3 +16,14 @@ Azure Bot Service, Azure Cognitive Services, Azure static Web apps
 ## Project Link: https://coviddd19.azurewebsites.net/
 
 ##  GitHub repository: https://github.com/manashjyoti12/covidd-19
+
+## Screenshots:
+
+### website screenshot:
+![My animated logo](images/website.png)
+
+### Deployment using Web App screenshot:
+![My animated logo](images/web-app.png)
+
+### Github build succesful screenshot:
+![My animated logo](images/github.png)
