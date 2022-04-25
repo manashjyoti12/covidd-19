@@ -17,6 +17,8 @@ Azure Bot Service, Azure Cognitive Services, Azure static Web apps
 
 ##  GitHub repository: https://github.com/manashjyoti12/covidd-19
 
+## Project Demo Video: https://drive.google.com/file/d/1eoubDNe58q66iKT94bSKU8vbcTeJECII/view?usp=sharing
+
 ## Screenshots:
 
 ### website screenshot:
