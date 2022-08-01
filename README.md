@@ -13,8 +13,7 @@ This website is developed to get the live updates of covid cases in India. It is
 
 Azure Bot Service, Azure Cognitive Services, Azure static Web apps
 
-## Project Link: https://coviddd19.azurewebsites.net/
-                 https://covide19-trackker.herokuapp.com/
+## Project Link: https://coviddd19.azurewebsites.net/  OR  https://covide19-trackker.herokuapp.com/
 
 ##  GitHub repository: https://github.com/manashjyoti12/covidd-19
 
